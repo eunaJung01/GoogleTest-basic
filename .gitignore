@@ -1,0 +1,9 @@
+# CLion project files
+/.idea
+cmake-build-*
+
+# VSCode files
+.vscode
+
+*.DS_Store
+.DS_Store
